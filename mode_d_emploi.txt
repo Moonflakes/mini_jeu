@@ -3,10 +3,13 @@ joueur 2 : rouge
 
 Faire avancer son bateau avec les fleches en bas : 5 mouvements disponibles a chaque tour.
 
-A chaque fin de tour cliquer sir le bouton "end turn" (en bas), pour passer au joueur suivant.
+A chaque fin de tour cliquer sur le bouton "end turn" (en bas), pour passer au joueur suivant.
 
-Tirer avec le bouton "tirer".
- - si le tire n'abouti pas il ne se passe rien (juste un son pew pew) et le joueur peut continuer ses mouvements s'il en a encore.
- - si le titre abouti l'autre joueur pert immediatement.
+Tirer avec le bouton "tirer" (en bas).
+ - si le tire n'abouti pas il ne se passe rien (juste un son "pew pew") et le joueur peut continuer ses mouvements s'il en a encore.
+ - si le tire abouti l'autre joueur pert immediatement.
+Un tir effectué entraine un lancé de dés qui détermine en fonction de la distance entre le joueur qui tir et sa cible et du résultat du lancé si le tir a abouti ou non.
+Pour qu'un tir aboutisse il faut être en face de sa cible (au moins 1 carré dans l'axe horizontal ou vertical de la cible). 
+Le tir sera obligatoirement lancé en direction de la cible (si je joueur est dans l'axe).
 
 Si un joueur avance dans le mur il pert.
