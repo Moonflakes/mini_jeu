@@ -1,0 +1,12 @@
+joueur 1 : vert
+joueur 2 : rouge
+
+Faire avancer son bateau avec les fleches en bas : 5 mouvements disponibles a chaque tour.
+
+A chaque fin de tour cliquer sir le bouton "end turn" (en bas), pour passer au joueur suivant.
+
+Tirer avec le bouton "tirer".
+ - si le tire n'abouti pas il ne se passe rien (juste un son pew pew) et le joueur peut continuer ses mouvements s'il en a encore.
+ - si le titre abouti l'autre joueur pert immediatement.
+
+Si un joueur avance dans le mur il pert.
